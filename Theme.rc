@@ -1,0 +1,10 @@
+[KSplash Theme: KanotixClouds]
+Name = KanotixClouds Splash
+Description = Kanotix 2006 Splash (clouds)
+Version = 2.2
+Author = Nisse and Cathbard Druid
+
+Engine = Default
+
+Icons Flashing = true
+
